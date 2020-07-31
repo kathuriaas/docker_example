@@ -1,5 +1,5 @@
 {
-  "name": "docker_example",
+  "name": "docker_node_sample",
   "version": "1.0.0",
   "description": "Node.js on Docker",
   "author": "Ashish Kathuria",
